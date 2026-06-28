@@ -14,7 +14,8 @@
   "packages": {
     "skills/self-improve": {
       "component": "self-improve",
-      "release-type": "simple"
+      "release-type": "simple",
+      "initial-version": "0.1.0"
     }
   }
 }
