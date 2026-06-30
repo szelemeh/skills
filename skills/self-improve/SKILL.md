@@ -9,4 +9,4 @@ Reflect on our interactions: where you stumbled, got a correction, danced around
 solution, or didn't grasp what had to be done from the start. For each, find where it
 came from and what was missing.
 
-Then present a short list of suggested surgical changes to the setup. Use your knowledge about yourself to find the cleanest home for each: AGENTS.md/CLAUDE.md, a rule, a command, or an update to an existing skill.
+Then present a short list of suggested surgical changes to the setup. Use your knowledge about yourself to find the cleanest home for each, preferring durable setup over memory: AGENTS.md/CLAUDE.md, a rule, a command, or an update to an existing skill.
